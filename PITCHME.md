@@ -4,12 +4,13 @@
 ![Image](./assets/BcCube128.png)
 
 ---
-### Find Us Online
+### Bincrafters OSS Team
 
-* https://opencollective.com/bincrafters
+Find us online...
 * https://bincrafters.github.io
 * https://twitter.com/bincrafters
 * https://github.com/bincrafters
+* https://opencollective.com/bincrafters
 
 ---
 ### Universal CI Dependencies
