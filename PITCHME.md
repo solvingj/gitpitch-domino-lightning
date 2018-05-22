@@ -1,5 +1,8 @@
-## Bincrafters
-*Your Open-Source Devops Team for Conan and C/C++*  
+## Project Domino
+**From Bincrafters, the open-source devops team for Conan and C/C++**
+
+![Image](./assets/BcCube128.png)
+
 ---
 ### Find Us Online
 
