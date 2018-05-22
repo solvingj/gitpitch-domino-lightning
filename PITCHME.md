@@ -30,7 +30,7 @@ Find us online...
 
 ---
 ### Motivation
-* Conan : C++ has unique property of ABI compatibility 
+* Conan : C++ has "ABI compatibility" challenge 
 * Bincrafters : Above + Boost + 100 More Packages
 * Realized our needs are universal among PM's
 	* Apt/Yum/Brew/Conda/Vcpkg/Choco/Onepkg/etc
