@@ -40,7 +40,6 @@ Find us online...
 ---
 ### Another Perspective
 * A CI agnostic dependency definition layer
-* Not just release branches - build develop against develop
 * For Enterprise
 	* Build based on OSS and internal deps
 * For OSS
