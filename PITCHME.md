@@ -1,4 +1,5 @@
 ## Project Domino
+*A CI-agnostic Project-Level Dependency System*
 
 ![Image](./assets/BcCube128.png)
 
@@ -12,7 +13,6 @@
 
 ---
 ### Universal CI Dependencies
-* A CI-agnostic Project-Level Dependency System
 * Upstream library release trigger downstream CI 
 	* downstream dependency libraries
 	* downstream package manager repos
