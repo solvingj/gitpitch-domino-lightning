@@ -60,13 +60,13 @@
 
 ---
 ### Domino - Project Profile - Phase 1 OSS
-* Start with dedicated pub/sub apps on Github marketplace 
-	* Early version can trigger builds with empty git commit
-	* Later send webhooks direct to CI's (requires more auth logic)
+* Tune into Libraries.io to capture events
+* Start with subscribe app on Github marketplace 
+	* Trigger builds with empty git commit
+	* Later send webhooks direct to CI's
 ---
 	
 ### Domino - Project Profile - Phase 2 Enterprise
 * CI Specific integrations around the webhooks
 	* Jenkins/Bamboo/TFS Plugins Etc
-	* Eventually displace proprietary upstream/downstream definitions
-
+	
