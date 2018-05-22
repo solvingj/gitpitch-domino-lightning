@@ -11,7 +11,7 @@
 * https://github.com/bincrafters
 
 ---
-### Domino - Universal CI Dependencies
+### Universal CI Dependencies
 * A CI-agnostic Project-Level Dependency System
 * Upstream library release trigger downstream CI 
 	* downstream dependency libraries
@@ -20,7 +20,7 @@
 * Like Libraries.io - but trigger jobs instead of email
 
 ---
-### Domino - Prior Art
+### Prior Art
 * Libraries.io - Simple, good indicator of demand
 * Numerous other recent competitors to Libraries.io
 * Fedora - https://release-monitoring.org/projects
@@ -28,7 +28,7 @@
 * All proprietary implementations of a simple concept
 
 ---
-### Domino - Motivation
+### Motivation
 * Conan : C++ has unique property of ABI compatibility 
 * Bincrafters : Above + Boost + 100 More Packages
 * Realized our needs are universal among PM's
@@ -37,7 +37,7 @@
 * Great candidate to generalize and open-source
 
 ---
-### Domino - Another Perspective
+### Another Perspective
 * A CI agnostic dependency definition layer
 * Not just release branches - build develop against develop
 * For Enterprise
@@ -59,14 +59,14 @@
 	* "clear_cache" | "force_docker_pull"
 
 ---
-### Domino - Project Profile - Phase 1 OSS
+### Project Profile - Phase 1 OSS
 * Tune into Libraries.io to capture events
 * Start with subscribe app on Github marketplace 
 	* Trigger builds with empty git commit
 	* Later send webhooks direct to CI's
 ---
 	
-### Domino - Project Profile - Phase 2 Enterprise
+### Project Profile - Phase 2 Enterprise
 * CI Specific integrations around the webhooks
 	* Jenkins/Bamboo/TFS Plugins Etc
 	
