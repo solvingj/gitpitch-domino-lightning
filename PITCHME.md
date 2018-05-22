@@ -49,10 +49,10 @@
 ---
 ### Domino - Impementation Ideas
 * Relatively easy business logic (pub/sub)
-* Define extensible schema for upstream-to-downstream events
-* Include commit message parsing as a signaling mechanism 
-* Yaml spec for defining "dependencies" and "build_filters"
-* Inspired by "build_policy" parsing of Conan Package Tools
+* Define schema for upstream-to-downstream events
+* Include commit message parsing for control 
+* Yaml spec for defining "dependencies" and "filters"
+* Inspired by "build_policy" from Conan Package Tools
 * Define standard keywords for downstream "[build_filter=]":
 	* "skip_deps_transitive" | "skip_deps_<project_names>"
 * Allow customizable keywords and behavior for enterprise:
