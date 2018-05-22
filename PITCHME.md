@@ -59,14 +59,14 @@
 	* "clear_cache" | "force_docker_pull"
 
 ---
-### Phase 1 OSS
+### Phase 1 - OSS
 * Tune into Libraries.io to capture events
 * Start with subscribe app on Github marketplace 
 	* Trigger builds with empty git commit
 	* Later send webhooks direct to CI's
 ---
 	
-### Phase 2 Enterprise
+### Phase 2 - Enterprise
 * CI Specific integrations around the webhooks
 	* Jenkins/Bamboo/TFS Plugins Etc
 	
