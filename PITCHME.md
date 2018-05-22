@@ -62,7 +62,8 @@ Find us online...
 ### Phase 1 - OSS
 * Tune into Libraries.io to capture events
 * Start with subscribe app on Github marketplace 
-	* Trigger builds with empty git commit
+	* Trigger builds with "empty" commits
+	* Embed event info in commit message
 	* Later send webhooks direct to CI's
 ---
 	
