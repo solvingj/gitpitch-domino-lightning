@@ -5,9 +5,10 @@
 ---
 ### Find Us Online
 
-https://opencollective.com/bincrafters
-https://bincrafters.github.io
-https://twitter.com/bincrafters
+* https://opencollective.com/bincrafters
+* https://bincrafters.github.io
+* https://twitter.com/bincrafters
+* https://github.com/bincrafters
 
 ---
 ### Domino - Universal CI Dependencies
