@@ -1,5 +1,4 @@
 ## Project Domino
-*From Bincrafters: An open-source devops team*
 
 ![Image](./assets/BcCube128.png)
 
