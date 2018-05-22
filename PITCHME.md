@@ -52,8 +52,8 @@
 * Define schema for upstream-to-downstream events
 * Include commit message parsing for control 
 * Yaml spec for defining "dependencies" and "filters"
-* Inspired by "build_policy" from Conan Package Tools
-* Define standard keywords for downstream "[build_filter=]":
+* Like "build_policy" from Conan Package Tools
+* Define standard keywords like "[build_filter=]":
 	* "skip_deps_transitive" | "skip_deps_<project_names>"
 * Allow customizable keywords and behavior for enterprise:
 	* "clear_cache" | "force_docker_pull"
