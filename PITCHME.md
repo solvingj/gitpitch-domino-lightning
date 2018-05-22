@@ -54,8 +54,8 @@
 * Yaml spec for defining "dependencies" and "filters"
 * Like "build_policy" from Conan Package Tools
 * Define standard keywords like "[build_filter=]":
-	* "skip_deps_transitive" | "skip_deps_<project_names>"
-* Allow customizable keywords and behavior for enterprise:
+	* "skip_deps_transitive" | "skip_deps_abc"
+* Allow customizable keywords and behavior:
 	* "clear_cache" | "force_docker_pull"
 
 ---
