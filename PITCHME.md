@@ -17,7 +17,7 @@
 	* downstream dependency libraries
 	* downstream package manager repos
 	* flexible build policies for downstream consumers 
-* Like Libraries.io - take action rather than sending emails
+* Like Libraries.io - but trigger jobs instead of email
 
 ---
 ### Domino - Prior Art
