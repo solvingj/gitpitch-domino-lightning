@@ -19,6 +19,7 @@
 	* flexible build policies for downstream consumers 
 * Like Libraries.io - take action rather than sending emails
 
+---
 ### Domino - Prior Art
 * Libraries.io - Simple, good indicator of demand
 * Numerous other recent competitors to Libraries.io
@@ -26,6 +27,7 @@
 * Most Mature CI Systems can trigger from "upstream builds"
 * All proprietary implementations of a simple concept
 
+---
 ### Domino - Motivation
 * Conan : C++ has unique property of ABI compatibility 
 * Bincrafters : Above + Boost + 100 More Packages
@@ -34,6 +36,7 @@
 * Realized it's needed in enterprise just as much as OSS
 * Great candidate to generalize and open-source
 
+---
 ### Domino - Another Perspective
 * A CI agnostic dependency definition layer
 * Not just release branches - build develop against develop
@@ -42,6 +45,7 @@
 * For OSS
 	* Single source of truth for Travis/Appveyor/CircleCI/Etc
 
+---
 ### Domino - Impementation Ideas
 * Relatively easy business logic (pub/sub)
 * Define extensible schema for upstream-to-downstream events
@@ -53,10 +57,12 @@
 * Allow customizable keywords and behavior for enterprise:
 	* "clear_cache" | "force_docker_pull"
 
+---
 ### Domino - Project Profile - Phase 1 OSS
 * Start with dedicated pub/sub apps on Github marketplace 
 	* Early version can trigger builds with empty git commit
 	* Later send webhooks direct to CI's (requires more auth logic)
+---
 	
 ### Domino - Project Profile - Phase 2 Enterprise
 * CI Specific integrations around the webhooks
